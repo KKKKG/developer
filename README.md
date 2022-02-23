@@ -1,2 +1,2 @@
 # developer
-https://developer.kasar.me
+https://dev.kasar.store
