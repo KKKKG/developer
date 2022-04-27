@@ -1,2 +1,1 @@
-# developer
-https://dev.kasar.store
+# not in
